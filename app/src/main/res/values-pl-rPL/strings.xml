@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">padtm-lab2</string>
+    <string name="moj_tekst">witaj swiecie (pl)~!</string>
+    <string name="text2">czolem!(pl)</string>
+    <string name="text3">poniedzialek dzis (pl)</string>
+    <string name="text4">fajnie (pl)</string>
+    <string name="text5">hej (pl</string>
+</resources>

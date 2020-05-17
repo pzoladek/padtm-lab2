@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">padtm-lab2</string>
+    <string name="moj_tekst">bonjour le monde</string>
+    <string name="text2">halu! (FR)</string>
+    <string name="text3">mondai tudai (fr)</string>
+    <string name="text4">kool (fr)</string>
+    <string name="text5">hai (fr)</string>
+</resources>
